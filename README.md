@@ -10,7 +10,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What have you learned/improved?
 - Your wisdom? :)
 -->
-Practice really does make perfect! albeit challenging most of the time. I've learned a few things about flexbox and some design choices.
+Practice really does make perfect! albeit challenging most of the time. I've learned a few tings about flexbox and some design choices.
 
 
 
@@ -45,4 +45,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://{https://github.com/AbdeL-DevHub})
+- GitHub [AbdeL-DevHub](https://{https://github.com/AbdeL-DevHub})
